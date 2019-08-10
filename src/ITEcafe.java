@@ -7,6 +7,14 @@ public class ITEcafe {
 
     public static void main(String[] args) {
 
+        
+        
+        
+        
+        
+        
+        
+        
         //商品の準備
         Item hotcoffee = new Item(1, "ホットコーヒー", 280);
 
